@@ -5,3 +5,4 @@ This is a small experiment on the AR technology. The program will show the instr
 
 You can try this app by downloading it on an android and showing it the attached picture with name "uus_kuva.jpg".
 
+Please ignore the possible graphical issues. I was mainly getting familiar to the coding side.
